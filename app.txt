@@ -7,3 +7,5 @@ ls : donne tous les ficher
 
 git log : affiche les enregitrment des commit
 git log -n2 : affiche kes deux dernier commit
+
+git revert : supprime commit par id, et id est pris par git log oneline
