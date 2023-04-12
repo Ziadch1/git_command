@@ -1,1 +1,9 @@
 adding a file with command : touch "file-name"
+
+add fichier: touch "name"
+add folder: mkdir "name"
+ls : donne tous les ficher
+
+
+git log : affiche les enregitrment des commit
+git log -n2 : affiche kes deux dernier commit
